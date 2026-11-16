@@ -1,0 +1,9 @@
+{
+  "svgPath": "wb-manufaktur.svg",
+  "svgFilename": "wb-manufaktur.svg",
+  "brandColor": "#f2ede4",
+  "tone": "neutral",
+  "motion": "float-spin",
+  "rotateSpeed": 0.3,
+  "source": "https://wbmanufaktur.com/"
+}
